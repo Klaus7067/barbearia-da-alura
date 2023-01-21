@@ -11,6 +11,10 @@ body {
 	padding: 30px;
 }
 
+.Titulo-principal{
+    padding-left: 20px;
+}
+
 .Titulo-centralizado{
 	text-align: center
 }
